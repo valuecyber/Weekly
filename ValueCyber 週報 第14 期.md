@@ -1,4 +1,4 @@
-#ValueCyber週報第14期
+# ValueCyber週報第14期
 2018.07.30-08.05.
 
    
