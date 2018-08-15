@@ -1,6 +1,8 @@
 # ValueCyber 週報 第 15 期
 
-2018.08.06-08.12
+2018.08.06-08.12.
+
+
 
 
 ## 研發 Development
@@ -10,6 +12,8 @@
 3. VCT主鏈的POS共識機制開發推進中
 
 為保護我們的核心技術思想，以及避免投資人的利益遭受損失，目前其他部分內容暫不方便公開，敬請諒解。
+
+ 
 
 ## 市场 Market
 
@@ -78,5 +82,3 @@ VCT流通市值：¥10,131,984
 3. 其他：5千VCT，連續工作滿六個月加送5千VCT
 
 [ValueCyber官方网站](https://www.valuecyber.org/)
-
-![](https://ws4.sinaimg.cn/large/006tNbRwly1fua9b7pc3uj319001kaat.jpg)
