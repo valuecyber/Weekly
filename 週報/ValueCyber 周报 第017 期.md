@@ -2,8 +2,6 @@
 
 2018.08.20-08.26.
 
-
-
 ## 研发 Development
 
 1. 基于hyperledger/Caliper项目的性能检验平台已经实现
