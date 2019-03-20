@@ -1,5 +1,5 @@
 # ValueCyber 週報
-- [ValueCyber週報第 040 期]（https://github.com/valuecyber/Weekly/blob/master/ValueCyber%E5%91%A8%E6%8A%A5%E7%AC%AC%20040%E6%9C%9F.md）
+- [ValueCyber週報第 040 期](https://github.com/valuecyber/Weekly/blob/master/ValueCyber%E5%91%A8%E6%8A%A5%E7%AC%AC%20040%E6%9C%9F.md)
 - [ValueCyber週報第 039 期](https://github.com/valuecyber/Weekly/blob/master/ValueCyber%E5%91%A8%E6%8A%A5%E7%AC%AC%20039%E6%9C%9F.md)
 - [ValueCyber週報第 038 期](https://github.com/valuecyber/Weekly/blob/master/ValueCyber%E5%91%A8%E6%8A%A5%E7%AC%AC%20038%E6%9C%9F.md)
 - [ValueCyber週報第 037 期](https://github.com/valuecyber/Weekly/blob/master/ValueCyber%E5%91%A8%E6%8A%A5%E7%AC%AC%20037%E6%9C%9F.md)
